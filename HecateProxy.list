@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,18comic.vip
 
 # picacomic
 DOMAIN-SUFFIX,manhuapica.com
+DOMAIN-SUFFIX,manhuabica.com
 
 # dlsite
 DOMAIN-SUFFIX,dlsite.com
@@ -21,3 +22,7 @@ DOMAIN-SUFFIX,1point3acres.com
 
 # opgg
 DOMAIN-SUFFIX,op.gg.com
+
+# av
+DOMAIN-SUFFIX,jable.tv
+

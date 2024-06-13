@@ -29,3 +29,5 @@ DOMAIN-SUFFIX,jable.tv
 #temu
 DOMAIN-SUFFIX,temu.com
 
+#huggingface
+DOMAIN-SUFFIX,huggingface.co

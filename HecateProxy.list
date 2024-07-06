@@ -31,3 +31,6 @@ DOMAIN-SUFFIX,temu.com
 
 #huggingface
 DOMAIN-SUFFIX,huggingface.co
+
+# 美卡论坛
+DOMAIN-SUFFIX,uscardforum.com
